@@ -57,7 +57,7 @@ Outputs:
 - `module.my_local_lambda.role_arn`
 - `module.my_local_lambda.websocket_url`
 - `module.my_local_lambda.websocket_secret`
-- `module.local_lambda_environment.websocket_url
+- `module.local_lambda_environment.websocket_url`
 - `module.my_local_lambda.role_arn`
 - `module.my_local_lambda.websocket_url`
 - `module.my_local_lambda.websocket_secret`
